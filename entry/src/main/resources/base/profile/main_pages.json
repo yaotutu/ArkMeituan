@@ -1,6 +1,7 @@
 {
   "src": [
     "pages/Index",
-    "pages/AppFiringPage"
+    "pages/AppFiringPage",
+    "pages/MainPage"
   ]
 }

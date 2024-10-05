@@ -8,7 +8,7 @@ struct AppFiringPage {
   aboutToAppear(): void {
     setTimeout(() => {
       router.replaceUrl({
-        url: "pages/Index"
+        url: "pages/MainPage"
       })
     }, 3000)
   }
